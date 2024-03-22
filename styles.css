@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+ form{
+	 width:1000px;
+	 height:800px;
+	 border:3px solid green;
+	 font-weight:bold;
+	 padding:50px;
+ }
+.a{
+	background:yellow;
+}
+
+ ::placeholder{
+	 background: lightblue ;
+	 font-family:cadetblue;
+	 font-style:italic;
+	 font-weight:bold;
+ }
